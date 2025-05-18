@@ -1,1 +1,1 @@
-<script src="https://gist.github.com/cheesedog01/345e3aeded8f009c32db87e553dfe698.js"></script>
+https://gist.github.com/345e3aeded8f009c32db87e553dfe698.git
